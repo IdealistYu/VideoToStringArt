@@ -48,3 +48,4 @@ Check out the output video demo on [Bilibili](https://www.bilibili.com/video/BV1
 
 This project is licensed under the [MIT License](LICENSE).
 
+![](https://img.shields.io/github/last-commit/IdealistYu/VideoToStringArt)
