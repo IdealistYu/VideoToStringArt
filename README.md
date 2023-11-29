@@ -1,4 +1,7 @@
 # VideoToStringArt
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b1520773dc554359adb093a72b58fb92)](https://app.codacy.com/gh/IdealistYu/VideoToStringArt?utm_source=github.com&utm_medium=referral&utm_content=IdealistYu/VideoToStringArt&utm_campaign=Badge_Grade)
+
 Convert videos into captivating ASCII art animations effortlessly. This Python script utilizes PIL (Pillow) to process images, transforming them into a series of ASCII art frames. Customize fonts, symbols, and output settings for unique and visually appealing results.
 
 ## Installation
