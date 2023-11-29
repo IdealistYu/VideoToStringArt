@@ -75,5 +75,6 @@ def main():
 
     print(f"\nConversion completed for {count}/{total_files} images.")
 
+
 if __name__ == "__main__":
     main()
