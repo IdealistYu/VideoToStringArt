@@ -37,8 +37,8 @@ ffmpeg -i input.mp4 -i output.mp4 -c:v copy -c:a copy -strict experimental -shor
 
 ## Notes
 
-- Ensure that [ffmpeg](https://github.com/FFmpeg/FFmpeg) is installed before running the script.
-- Adjust ffmpeg command parameters based on your specific requirements.
+-   Ensure that [ffmpeg](https://github.com/FFmpeg/FFmpeg) is installed before running the script.
+-   Adjust ffmpeg command parameters based on your specific requirements.
 
 ## Demo 
 
